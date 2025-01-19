@@ -1,25 +1,10 @@
 
-```markdown
 # Web Review Scraper
 
 ## 📖 Introduction
 
 **Web Review Scraper** is a Python-based tool for web scraping, designed to dynamically extract reviews from any product webpage. By utilizing OpenAI's LLM (Large Language Model), the scraper intelligently identifies CSS selectors, making it adaptable to different website structures. The tool is integrated into a Flask web application, providing an easy-to-use interface where users can input a URL and view extracted reviews effortlessly.
 
----
-
-## 📋 Table of Contents
-
-- [Introduction](#📖-introduction)
-- [Features](#🧐-features)
-- [Built With](#💻-built-with)
-- [Installation](#🚀-installation)
-- [Usage](#📖-usage)
-- [Configuration](#⚙️-configuration)
-- [Examples](#🌟-examples)
-- [Troubleshooting](#🛠-troubleshooting)
-
----
 
 ## 🧐 Features
 
