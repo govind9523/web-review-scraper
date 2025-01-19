@@ -50,7 +50,7 @@ Follow these steps to set up the project on your local system:
    ```bash
    git clone https://github.com/govind9523/web-review-scraper.git
    cd web-review-scraper
-   ```
+
 
 2. **Set Up a Virtual Environment**:
    ```bash
